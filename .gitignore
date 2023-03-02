@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+.idea
+Fundamentals_Coding.iml
